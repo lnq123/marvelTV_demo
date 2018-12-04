@@ -1,5 +1,6 @@
 # demo_marvelTV_api
 
-
-#npm install
-#npm start
+1.
+``npm install``
+2.
+``npm start``
