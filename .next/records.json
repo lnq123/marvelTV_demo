@@ -504,18 +504,23 @@
       "static/HiyZadcWFTNwW3BsDxFLh/pages/index.js": 4,
       "static/HiyZadcWFTNwW3BsDxFLh/pages/post.js": 5,
       "static/HiyZadcWFTNwW3BsDxFLh/pages/_app.js": 6,
-      "static/HiyZadcWFTNwW3BsDxFLh/pages/_error.js": 7
+      "static/HiyZadcWFTNwW3BsDxFLh/pages/_error.js": 7,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/about.js": 8,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/index.js": 9,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/post.js": 10,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/_app.js": 11,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/_error.js": 12
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
+      10,
+      11,
+      12,
       2,
-      3,
-      4,
-      5,
-      6,
-      7
+      8,
+      9
     ]
   }
 }

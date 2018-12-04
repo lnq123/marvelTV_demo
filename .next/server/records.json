@@ -54,16 +54,22 @@
       "static/HiyZadcWFTNwW3BsDxFLh/pages/post.js": 2,
       "static/HiyZadcWFTNwW3BsDxFLh/pages/_app.js": 3,
       "static/HiyZadcWFTNwW3BsDxFLh/pages/_error.js": 4,
-      "static/HiyZadcWFTNwW3BsDxFLh/pages/_document.js": 5
+      "static/HiyZadcWFTNwW3BsDxFLh/pages/_document.js": 5,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/about.js": 6,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/index.js": 7,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/post.js": 8,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/_app.js": 9,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/_error.js": 10,
+      "static/pgQbEtEiU4JUq5cnfZA1Z/pages/_document.js": 11
     },
     "bySource": {},
     "usedIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5
+      10,
+      11,
+      6,
+      7,
+      8,
+      9
     ]
   }
 }
